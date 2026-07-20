@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AyushEquityAI 🏥
 ## AI-powered Healthcare Inclusion & Fraud Detection Platform for PM-JAY
 
@@ -235,3 +236,7 @@ consume. We don't replace legacy systems – we augment them with intelligence.
 ---
 
 ## Files in /app/data/ (Demo Day)
+=======
+# AyushEquityAI
+AyushAI is an AI-powered healthcare inclusion and fraud detection platform for Ayushman Bharat (PM-JAY). It uses Machine Learning to identify eligible but unenrolled beneficiaries, detect fraudulent insurance claims, generate health equity insights, and provide interactive dashboards for data-driven healthcare decision-making.
+>>>>>>> 90207639f69e6d92ad49def7fa87d863a0d898ae
