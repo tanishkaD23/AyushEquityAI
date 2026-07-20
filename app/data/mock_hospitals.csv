@@ -1,0 +1,151 @@
+hospital_id,name,state,district,latitude,longitude,hospital_type,is_empanelled,claim_frequency,average_claim_amount,rejection_rate
+HOS0000,Government Medical College - Ahmedabad,Gujarat,Ahmedabad,32.1896,90.7345,Private,True,116,318553.1,9.62
+HOS0001,Life Care - Bengaluru,Karnataka,Bengaluru,33.07,83.0517,Government,True,493,163868.66,4.2299999999999995
+HOS0002,Life Care - Kolkata,West Bengal,Kolkata,17.0429,96.2723,Private,False,20,117343.25,9.87
+HOS0003,Apollo Hospitals - Hyderabad,Telangana,Hyderabad,22.1405,96.9098,Private,True,59,340772.57,10.45
+HOS0004,Care Hospital - Mumbai,Maharashtra,Mumbai,20.752,77.1444,NGO,True,170,54649.16,0.62
+HOS0005,Apollo Hospitals - Indore,Madhya Pradesh,Indore,22.6528,77.8818,Government,True,75,158162.57,7.61
+HOS0006,City Clinic - Lucknow,Uttar Pradesh,Lucknow,26.2139,68.5992,NGO,True,324,37067.47,10.24
+HOS0007,Health Plus - Surat,Gujarat,Surat,25.4617,92.8541,Government,True,266,337588.67,13.370000000000001
+HOS0008,Government Medical College - Kolkata,West Bengal,Kolkata,34.8093,94.5091,Private,True,80,227688.33,0.59
+HOS0009,AIIMS - Jaipur,Rajasthan,Jaipur,29.5094,78.6419,Private,True,354,298788.1,11.709999999999999
+HOS0010,Indore Hospital - Hyderabad,Telangana,Hyderabad,31.3166,87.8551,Private,True,27,114304.84,1.25
+HOS0011,Fortis - Pune,Maharashtra,Pune,23.6257,70.2249,Government,False,84,122046.73,3.8
+HOS0012,Life Care - Surat,Gujarat,Surat,17.3504,79.0149,NGO,True,460,344022.22,12.13
+HOS0013,City Clinic - Lucknow,Uttar Pradesh,Lucknow,31.2295,90.8991,NGO,True,449,378758.49,9.98
+HOS0014,Health Plus - Delhi,Delhi,Delhi,34.3685,88.0094,Private,True,29,123674.88,13.059999999999999
+HOS0015,Government Medical College - Lucknow,Uttar Pradesh,Lucknow,22.5514,96.7742,Government,False,243,213164.46,5.16
+HOS0016,Prime Hospital - Surat,Gujarat,Surat,15.6587,90.6194,Government,True,178,94972.27,8.02
+HOS0017,City Clinic - Mumbai,Maharashtra,Mumbai,18.3283,69.1888,NGO,True,476,389198.26,13.309999999999999
+HOS0018,Health Plus - Mumbai,Maharashtra,Mumbai,20.3891,79.7169,Government,True,104,224805.19,10.11
+HOS0019,Life Care - Delhi,Delhi,Delhi,27.6298,94.845,Government,True,425,36976.03,11.51
+HOS0020,Max Healthcare - Indore,Madhya Pradesh,Indore,23.2205,82.8694,Government,True,114,297384.23,5.54
+HOS0021,City Clinic - Indore,Madhya Pradesh,Indore,13.8962,68.904,Government,True,149,119563.37,4.590000000000001
+HOS0022,AIIMS - Chandigarh,Chandigarh,Chandigarh,29.8411,84.5618,Private,True,345,133665.28,7.76
+HOS0023,Manipal - Pune,Maharashtra,Pune,15.9768,87.7537,Government,True,466,196845.11,0.06999999999999999
+HOS0024,Care Hospital - Ahmedabad,Gujarat,Ahmedabad,28.5312,68.6217,Government,True,260,122708.31,3.37
+HOS0025,Government Medical College - Kolkata,West Bengal,Kolkata,32.5156,85.506,Private,True,188,74464.77,1.11
+HOS0026,Government Medical College - Surat,Gujarat,Surat,31.1761,90.8218,Government,True,367,289997.25,0.9400000000000001
+HOS0027,Manipal - Chennai,Tamil Nadu,Chennai,20.348,75.5116,NGO,True,459,130452.13,14.27
+HOS0028,Government Medical College - Indore,Madhya Pradesh,Indore,34.7887,85.8199,NGO,True,423,189749.03,13.05
+HOS0029,Fortis - Pune,Maharashtra,Pune,33.4458,73.281,Government,True,288,398216.08,7.91
+HOS0030,AIIMS - Chandigarh,Chandigarh,Chandigarh,14.9819,81.2899,NGO,True,376,192265.08,6.47
+HOS0031,City Clinic - Pune,Maharashtra,Pune,26.4467,91.6736,NGO,True,35,152533.95,2.4699999999999998
+HOS0032,Apollo Hospitals - Hyderabad,Telangana,Hyderabad,33.8397,82.5373,Government,True,257,77930.82,6.43
+HOS0033,Fortis - Delhi,Delhi,Delhi,14.6522,77.9769,NGO,True,375,245974.16,9.43
+HOS0034,Max Healthcare - Goa,Goa,Goa,32.5435,89.3836,Private,True,109,344143.76,3.4000000000000004
+HOS0035,Care Hospital - Chennai,Tamil Nadu,Chennai,21.0978,73.3696,Government,True,313,323655.85,8.75
+HOS0036,Life Care - Delhi,Delhi,Delhi,18.4153,80.047,Private,False,456,241355.45,4.14
+HOS0037,Fortis - Surat,Gujarat,Surat,31.9879,73.741,Private,False,214,222243.71,4.81
+HOS0038,City Clinic - Chennai,Tamil Nadu,Chennai,14.6073,73.6259,Government,True,355,201637.62,9.27
+HOS0039,Apollo Hospitals - Hyderabad,Telangana,Hyderabad,17.5023,76.3247,Government,True,126,287190.01,5.029999999999999
+HOS0040,Prime Hospital - Jaipur,Rajasthan,Jaipur,30.4748,70.5651,NGO,True,48,250671.33,14.08
+HOS0041,Indore Hospital - Pune,Maharashtra,Pune,28.1493,77.8034,Government,True,24,382723.91,9.84
+HOS0042,Care Hospital - Pune,Maharashtra,Pune,14.7479,69.7958,Private,True,400,26083.6,4.9399999999999995
+HOS0043,Life Care - Indore,Madhya Pradesh,Indore,21.2536,91.0375,Government,True,372,339103.64,13.18
+HOS0044,City Clinic - Surat,Gujarat,Surat,31.1214,85.2287,Government,True,469,303446.48,7.5
+HOS0045,Indore Hospital - Bengaluru,Karnataka,Bengaluru,14.7707,87.7298,NGO,True,98,218762.34,7.380000000000001
+HOS0046,Manipal - Kolkata,West Bengal,Kolkata,26.8854,71.754,Government,True,424,103050.74,9.29
+HOS0047,Fortis - Pune,Maharashtra,Pune,33.0973,73.0452,Private,True,390,23626.76,13.03
+HOS0048,Prime Hospital - Bengaluru,Karnataka,Bengaluru,15.153,72.248,Government,False,356,335822.87,0.88
+HOS0049,Apollo Hospitals - Delhi,Delhi,Delhi,33.7128,87.1998,Private,True,384,333547.71,9.66
+HOS0050,Government Medical College - Chandigarh,Chandigarh,Chandigarh,22.3261,92.0365,NGO,True,420,87777.46,0.79
+HOS0051,Prime Hospital - Indore,Madhya Pradesh,Indore,28.3709,78.8672,NGO,True,303,74430.97,13.58
+HOS0052,Max Healthcare - Kolkata,West Bengal,Kolkata,13.823,84.265,NGO,True,161,294323.63,14.56
+HOS0053,AIIMS - Delhi,Delhi,Delhi,14.0543,84.9989,Private,True,280,119616.57,14.59
+HOS0054,Max Healthcare - Delhi,Delhi,Delhi,26.5705,95.5811,Private,True,459,151441.84,6.94
+HOS0055,Prime Hospital - Bengaluru,Karnataka,Bengaluru,28.2168,83.666,Private,True,212,98513.84,2.7
+HOS0056,Manipal - Bengaluru,Karnataka,Bengaluru,28.3205,79.2613,NGO,True,190,98939.26,14.04
+HOS0057,Life Care - Ahmedabad,Gujarat,Ahmedabad,25.612,75.1814,NGO,True,497,37351.28,11.709999999999999
+HOS0058,City Clinic - Kolkata,West Bengal,Kolkata,15.8006,77.0502,Private,True,171,395399.95,8.66
+HOS0059,Fortis - Chandigarh,Chandigarh,Chandigarh,34.9804,80.4951,Private,True,358,342581.85,6.78
+HOS0060,Max Healthcare - Surat,Gujarat,Surat,33.8523,88.0561,Government,True,194,180549.18,13.23
+HOS0061,Indore Hospital - Indore,Madhya Pradesh,Indore,29.2424,94.9033,Private,True,152,219833.51,14.790000000000001
+HOS0062,Prime Hospital - Bhopal,Madhya Pradesh,Bhopal,12.646,69.2111,Private,True,364,285560.43,5.220000000000001
+HOS0063,Fortis - Chennai,Tamil Nadu,Chennai,23.2308,78.8171,Government,True,338,24684.76,1.1199999999999999
+HOS0064,Life Care - Chennai,Tamil Nadu,Chennai,16.3932,73.9234,Government,True,104,140273.75,12.659999999999998
+HOS0065,Care Hospital - Pune,Maharashtra,Pune,19.4214,91.8995,NGO,True,92,362083.29,11.899999999999999
+HOS0066,City Clinic - Mumbai,Maharashtra,Mumbai,19.4529,83.8128,Private,True,122,42337.99,7.37
+HOS0067,AIIMS - Bengaluru,Karnataka,Bengaluru,31.4333,72.1599,Private,True,168,43799.92,2.75
+HOS0068,Max Healthcare - Chennai,Tamil Nadu,Chennai,17.5446,90.2619,NGO,True,422,335492.64,1.87
+HOS0069,Indore Hospital - Pune,Maharashtra,Pune,33.6972,92.7358,Government,True,93,348124.03,11.450000000000001
+HOS0070,Manipal - Delhi,Delhi,Delhi,32.2691,72.9592,Government,True,421,310846.06,6.77
+HOS0071,Fortis - Chandigarh,Chandigarh,Chandigarh,12.007,70.3291,Government,True,274,307079.07,14.46
+HOS0072,Apollo Hospitals - Bhopal,Madhya Pradesh,Bhopal,33.0063,68.1731,Private,True,283,76244.34,6.63
+HOS0073,City Clinic - Bhopal,Madhya Pradesh,Bhopal,16.536,72.0977,Private,True,36,209646.07,5.82
+HOS0074,Prime Hospital - Mumbai,Maharashtra,Mumbai,15.474,95.5634,NGO,True,315,385253.88,8.95
+HOS0075,Max Healthcare - Kolkata,West Bengal,Kolkata,17.2429,74.5872,Private,True,288,389205.74,3.6700000000000004
+HOS0076,AIIMS - Bhopal,Madhya Pradesh,Bhopal,21.3034,80.2939,Private,True,246,180411.48,7.17
+HOS0077,Indore Hospital - Jaipur,Rajasthan,Jaipur,28.8874,72.3697,NGO,True,340,372568.47,14.69
+HOS0078,City Clinic - Bhopal,Madhya Pradesh,Bhopal,32.7251,89.9154,Government,True,114,145665.59,4.47
+HOS0079,Prime Hospital - Chandigarh,Chandigarh,Chandigarh,15.8157,84.7355,Government,True,334,75077.6,4.81
+HOS0080,AIIMS - Goa,Goa,Goa,28.9188,76.9407,Government,True,285,268098.57,7.049999999999999
+HOS0081,Apollo Hospitals - Pune,Maharashtra,Pune,20.7955,95.2815,NGO,True,35,362464.18,4.8
+HOS0082,Max Healthcare - Hyderabad,Telangana,Hyderabad,21.8658,96.4165,Private,True,424,236678.99,13.469999999999999
+HOS0083,Life Care - Indore,Madhya Pradesh,Indore,31.0959,70.2537,Private,True,37,45180.98,1.71
+HOS0084,Life Care - Hyderabad,Telangana,Hyderabad,29.5708,89.7436,Government,True,445,394929.98,6.88
+HOS0085,Max Healthcare - Delhi,Delhi,Delhi,31.4698,91.7555,Government,True,167,271857.36,12.34
+HOS0086,Care Hospital - Mumbai,Maharashtra,Mumbai,18.6125,74.3885,Government,True,265,159921.37,8.89
+HOS0087,Care Hospital - Chandigarh,Chandigarh,Chandigarh,30.9033,90.0016,Government,True,240,228716.92,1.7000000000000002
+HOS0088,City Clinic - Jaipur,Rajasthan,Jaipur,30.3846,83.4162,Government,True,127,323210.94,11.450000000000001
+HOS0089,Max Healthcare - Mumbai,Maharashtra,Mumbai,34.8902,70.129,NGO,True,116,81720.28,9.07
+HOS0090,Max Healthcare - Indore,Madhya Pradesh,Indore,26.4619,80.1544,Government,True,40,145668.12,1.82
+HOS0091,Indore Hospital - Mumbai,Maharashtra,Mumbai,12.272,84.0529,NGO,True,484,379439.61,12.11
+HOS0092,Fortis - Bengaluru,Karnataka,Bengaluru,19.8369,78.8174,Private,True,420,361372.1,8.91
+HOS0093,Life Care - Jaipur,Rajasthan,Jaipur,25.1553,78.2296,Private,True,452,143218.55,8.25
+HOS0094,Life Care - Bhopal,Madhya Pradesh,Bhopal,18.6549,71.458,Private,True,168,82777.63,7.85
+HOS0095,Max Healthcare - Bengaluru,Karnataka,Bengaluru,28.2091,75.4136,Private,True,342,58248.5,4.83
+HOS0096,Prime Hospital - Jaipur,Rajasthan,Jaipur,30.6938,95.9392,NGO,True,340,381148.71,7.2700000000000005
+HOS0097,Prime Hospital - Kolkata,West Bengal,Kolkata,18.9089,79.578,Private,True,497,137903.21,6.58
+HOS0098,Health Plus - Chennai,Tamil Nadu,Chennai,29.8119,93.4213,NGO,True,51,282171.24,11.34
+HOS0099,Max Healthcare - Bengaluru,Karnataka,Bengaluru,13.101,75.0385,Private,True,413,393374.38,7.68
+HOS0100,Max Healthcare - Delhi,Delhi,Delhi,24.5024,71.3256,Government,True,339,237221.87,0.8200000000000001
+HOS0101,City Clinic - Pune,Maharashtra,Pune,27.3097,76.7048,NGO,True,93,336795.65,7.88
+HOS0102,Apollo Hospitals - Surat,Gujarat,Surat,18.828,85.1944,Private,True,404,205311.47,0.3
+HOS0103,Care Hospital - Chennai,Tamil Nadu,Chennai,12.8038,96.0283,Government,True,207,97077.52,6.34
+HOS0104,Apollo Hospitals - Bhopal,Madhya Pradesh,Bhopal,31.3132,76.2891,Private,True,76,300002.38,4.51
+HOS0105,Apollo Hospitals - Pune,Maharashtra,Pune,29.6474,95.3243,NGO,True,493,311245.37,5.1499999999999995
+HOS0106,Government Medical College - Jaipur,Rajasthan,Jaipur,29.058,71.1109,Government,True,445,345816.66,5.779999999999999
+HOS0107,AIIMS - Kolkata,West Bengal,Kolkata,12.5234,85.3091,Government,True,118,95755.94,5.91
+HOS0108,City Clinic - Hyderabad,Telangana,Hyderabad,23.7244,70.966,Government,True,280,364997.97,2.07
+HOS0109,Apollo Hospitals - Ahmedabad,Gujarat,Ahmedabad,31.6123,93.8374,Private,True,431,104336.13,2.94
+HOS0110,Manipal - Lucknow,Uttar Pradesh,Lucknow,33.1028,91.5197,NGO,True,298,89712.25,12.9
+HOS0111,Fortis - Lucknow,Uttar Pradesh,Lucknow,29.5981,85.1211,NGO,True,239,264363.21,7.960000000000001
+HOS0112,City Clinic - Surat,Gujarat,Surat,21.9441,75.2349,Government,True,343,63436.87,12.1
+HOS0113,Max Healthcare - Kolkata,West Bengal,Kolkata,15.9398,74.1119,Private,False,81,173987.87,8.12
+HOS0114,Indore Hospital - Mumbai,Maharashtra,Mumbai,24.0236,77.5724,Government,True,272,169114.2,14.32
+HOS0115,Health Plus - Hyderabad,Telangana,Hyderabad,19.4965,87.9481,NGO,True,320,221493.04,7.430000000000001
+HOS0116,Life Care - Kolkata,West Bengal,Kolkata,15.2189,83.9931,Government,True,352,106569.47,10.68
+HOS0117,City Clinic - Chennai,Tamil Nadu,Chennai,32.723,92.0097,Government,True,366,368047.45,6.45
+HOS0118,City Clinic - Kolkata,West Bengal,Kolkata,33.7961,80.6449,Government,True,176,340844.44,6.2
+HOS0119,Life Care - Chennai,Tamil Nadu,Chennai,17.7579,95.0611,Private,True,363,339478.87,7.31
+HOS0120,Prime Hospital - Chandigarh,Chandigarh,Chandigarh,14.3727,68.7873,Private,True,422,53401.35,11.92
+HOS0121,City Clinic - Kolkata,West Bengal,Kolkata,12.7516,75.0618,Government,True,430,90208.62,2.15
+HOS0122,Max Healthcare - Delhi,Delhi,Delhi,22.3205,80.0392,Government,True,286,217418.77,7.180000000000001
+HOS0123,Indore Hospital - Bengaluru,Karnataka,Bengaluru,33.8933,90.5284,NGO,True,417,194601.7,4.84
+HOS0124,Care Hospital - Kolkata,West Bengal,Kolkata,18.0059,68.3225,Private,True,403,336258.76,5.25
+HOS0125,Indore Hospital - Surat,Gujarat,Surat,12.9488,76.8908,Private,True,270,316298.78,13.489999999999998
+HOS0126,Max Healthcare - Bengaluru,Karnataka,Bengaluru,33.6287,71.5057,Government,True,350,256469.61,3.9800000000000004
+HOS0127,Indore Hospital - Mumbai,Maharashtra,Mumbai,21.8952,73.1867,Private,True,390,24204.67,2.93
+HOS0128,Government Medical College - Chandigarh,Chandigarh,Chandigarh,17.8308,69.7139,Private,True,35,139240.95,12.6
+HOS0129,Indore Hospital - Indore,Madhya Pradesh,Indore,23.4202,93.9161,NGO,True,324,238026.63,1.69
+HOS0130,Indore Hospital - Chandigarh,Chandigarh,Chandigarh,28.8749,94.8826,NGO,True,48,102396.64,13.420000000000002
+HOS0131,Health Plus - Jaipur,Rajasthan,Jaipur,32.1339,81.7313,Government,False,48,303749.17,5.29
+HOS0132,Care Hospital - Mumbai,Maharashtra,Mumbai,28.8933,70.3914,Private,True,50,282329.17,10.17
+HOS0133,Indore Hospital - Jaipur,Rajasthan,Jaipur,15.1984,85.8335,Private,True,126,311106.46,1.3299999999999998
+HOS0134,Max Healthcare - Bengaluru,Karnataka,Bengaluru,19.3465,80.1746,Government,True,210,376883.22,5.54
+HOS0135,Indore Hospital - Kolkata,West Bengal,Kolkata,32.4437,75.6989,NGO,True,166,168442.76,1.11
+HOS0136,Life Care - Indore,Madhya Pradesh,Indore,28.956,68.2095,NGO,True,382,252487.9,6.21
+HOS0137,Care Hospital - Mumbai,Maharashtra,Mumbai,18.3008,83.3862,Government,True,163,268523.56,11.08
+HOS0138,Apollo Hospitals - Delhi,Delhi,Delhi,23.4911,90.5048,Government,False,291,153947.12,0.5599999999999999
+HOS0139,Manipal - Mumbai,Maharashtra,Mumbai,34.4374,77.9114,Private,True,475,169398.36,5.07
+HOS0140,Prime Hospital - Lucknow,Uttar Pradesh,Lucknow,26.9809,78.5979,NGO,True,256,157405.72,4.5600000000000005
+HOS0141,AIIMS - Bhopal,Madhya Pradesh,Bhopal,19.9703,87.8631,Private,True,252,31108.83,9.16
+HOS0142,Fortis - Lucknow,Uttar Pradesh,Lucknow,22.1418,73.7216,NGO,True,268,258337.84,12.540000000000001
+HOS0143,Manipal - Chandigarh,Chandigarh,Chandigarh,28.5942,85.8913,NGO,True,382,217763.03,1.23
+HOS0144,AIIMS - Lucknow,Uttar Pradesh,Lucknow,28.4373,84.7937,Private,True,298,183938.84,14.530000000000001
+HOS0145,Manipal - Delhi,Delhi,Delhi,33.5264,72.8076,Government,True,369,83318.2,7.829999999999999
+HOS0146,Health Plus - Kolkata,West Bengal,Kolkata,32.4419,87.4779,Private,True,113,85063.02,7.03
+HOS0147,Prime Hospital - Mumbai,Maharashtra,Mumbai,24.0927,81.2524,NGO,True,19,216088.38,13.51
+HOS0148,Prime Hospital - Lucknow,Uttar Pradesh,Lucknow,18.6321,82.1327,Government,True,64,276826.07,5.71
+HOS0149,AIIMS - Chennai,Tamil Nadu,Chennai,27.366,88.0908,Private,True,330,147151.3,0.9199999999999999

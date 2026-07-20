@@ -1,0 +1,8 @@
+household_id,name,district,is_enrolled,match_score,is_missing,beneficiary_id,matched_name,name_similarity,aadhaar_similarity,match_type,priority_rank
+HH002406,Anil Singh,Delhi,False,84.51948051948051,True,,,,,missing_unenrolled,1.0
+HH002514,Anil Kumar,Bengaluru,False,80.9377990430622,True,,,,,missing_unenrolled,3.0
+HH002714,Kumar Khan,Hyderabad,False,80.36363636363637,True,,,,,missing_unenrolled,4.0
+HH003028,Kumar Patel,Chandigarh,False,76.72727272727273,True,,,,,missing_unenrolled,5.0
+HH003365,Kumar Khan,Hyderabad,False,80.36363636363637,True,,,,,missing_unenrolled,4.0
+HH004000,Kumar Patel,Chandigarh,False,76.72727272727273,True,,,,,missing_unenrolled,5.0
+HH004948,Anil Khan,Surat,False,83.61722488038276,True,,,,,missing_unenrolled,2.0
